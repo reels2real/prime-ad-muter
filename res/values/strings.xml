@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a11y_desc">Ad Cover takes screenshots only to find ads: Prime Video\'s pause-screen ads, Prime\'s \"Ad\" badge on devices where Prime gives no other signal, and YouTube\'s Skip button, which it presses with the OK key. It reads nothing else and sends nothing anywhere.</string>
+</resources>
